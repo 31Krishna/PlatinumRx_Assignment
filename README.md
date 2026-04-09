@@ -24,6 +24,11 @@
 * Converted minutes into human-readable format
 * Removed duplicate characters using loop
 
+## Key Highlights
+- Used PostgreSQL-specific functions (EXTRACT, DATE_TRUNC)
+- Applied real-world data analysis logic in Excel (lookup + time comparison)
+- Focused on clean and structured implementation  
+
 ## Notes
 
 * PostgreSQL syntax used instead of MySQL
